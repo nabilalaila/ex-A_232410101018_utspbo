@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "uN2gae/fJ5Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Downloads\\1018_Nabila Laila Sholihah_UTS PBO\\1018_Nabila Laila Sholihah_UTS PBO\\1018_Nabila Laila Sholihah_UTS PBO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3-vulnerabilities/2024.11.07.05.58.19/vulnerability.base.json' timed out because no data was received for 60000ms."
+    }
+  ]
+}
